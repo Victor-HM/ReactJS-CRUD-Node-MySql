@@ -7,8 +7,10 @@
 .register--container {
   width: 300px;
   height: 300px;
-  border: 3px solid #e0e0e0;
-  border-radius: 0.5rem;
+  border-radius: 0.3rem;
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow:  20px 20px 60px #bebebe,
+               -20px -20px 60px #ffffff;
 
   display: flex;
   justify-content: center;
@@ -30,4 +32,16 @@
 
 .submit {
   padding: 0;
+  border-radius: 5px;
+  background: linear-gradient(145deg, #f0f0f0, #cacaca);
+  box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+
+input, button {
+  border: 0
+}
+
+.title-games {
+  margin: 2rem;
 }
