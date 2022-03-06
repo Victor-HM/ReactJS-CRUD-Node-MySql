@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Sistema completo de CRUD
+
+## Tecnologias Usadas💻
+### Front-End
+ ![Badge](https://img.shields.io/static/v1?label=&message=React&color=3498db&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=material-ui&color=f1c40f&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=Axios&color=bdc3c7&style=for-the-badge)
+ 
+### Back-End
+ ![Badge](https://img.shields.io/static/v1?label=&message=MySql&color=e67e22&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=Express&color=2c3e50&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=Cors&color=e74c3c&style=for-the-badge)
+ ![Badge](https://img.shields.io/static/v1?label=&message=nodemon&color=2ecc71&style=for-the-badge)
+  
+
+![alt text](https://github.com/Victor-HM/ReactJS-CRUD-Node-MySql/blob/main/image.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
